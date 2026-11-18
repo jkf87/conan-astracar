@@ -2,17 +2,17 @@
 
 **99가지 스타일을 코드로 만든 한국어 단편 상영관.** Codex Astra 6.2 High 워커 세 개가 33편씩 제작했습니다. 작품 하나를 고르면 새 단편과 그 스타일의 Lemo-Opuscar 원작 데모를 같은 화면에서 볼 수 있습니다.
 
-[**스타일 메뉴 열기**](https://jkf87.github.io/conan-astracar/#menu) · [**비교 상영관**](https://jkf87.github.io/conan-astracar/films.html) · [**23초 예고편**](https://jkf87.github.io/conan-astracar/trailer.mp4)
+[**스타일 메뉴 열기**](https://conanssam.com/conan-astracar/#menu) · [**비교 상영관**](https://conanssam.com/conan-astracar/films.html) · [**23초 예고편**](https://conanssam.com/conan-astracar/trailer.mp4)
 
-[![코난쌤 아스트라카 단편 모음](site/share.jpg)](https://jkf87.github.io/conan-astracar/)
+[![코난쌤 아스트라카 단편 모음](site/share.jpg)](https://conanssam.com/conan-astracar/)
 
 99 original code-animated shorts, each paired with the official Lemo-Opuscar demo for its style. Browse the Korean catalog by English style name, watch the films, and inspect the source for every shot.
 
 ## 한 편 보기
 
-- [네온 튜브](https://jkf87.github.io/conan-astracar/films.html?style=neon-tubes)에서 빛의 번짐과 움직임을 비교합니다.
-- [우키요에](https://jkf87.github.io/conan-astracar/films.html?style=ukiyoe)에서 목판 질감과 색면의 겹침을 봅니다.
-- [픽셀 RPG](https://jkf87.github.io/conan-astracar/films.html?style=pixel-rpg)에서 작은 캐릭터로 사건을 전달하는 방법을 봅니다.
+- [네온 튜브](https://conanssam.com/conan-astracar/films.html?style=neon-tubes)에서 빛의 번짐과 움직임을 비교합니다.
+- [우키요에](https://conanssam.com/conan-astracar/films.html?style=ukiyoe)에서 목판 질감과 색면의 겹침을 봅니다.
+- [픽셀 RPG](https://conanssam.com/conan-astracar/films.html?style=pixel-rpg)에서 작은 캐릭터로 사건을 전달하는 방법을 봅니다.
 
 메뉴는 한국어 이름, 영문명, 줄거리, 스타일 번호로 검색할 수 있습니다. 상영관의 **작품 링크 복사**로 한 쌍의 영상을 공유하고 **제작 프롬프트 복사**로 같은 스타일에 새 주제를 넣어 보세요.
 
