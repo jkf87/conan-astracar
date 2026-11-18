@@ -1,0 +1,543 @@
+{
+  "verified": 33,
+  "dimensions": [
+    768,
+    432
+  ],
+  "video": "H.264 yuv420p",
+  "audio": "AAC stereo 32 kHz",
+  "faststart": true,
+  "distinct_recordings": 33,
+  "min_pairwise_poster_dhash_delta_of_256": 69,
+  "matching_jpeg_frame_extractions": 33,
+  "films": [
+    {
+      "slug": "dark-keynote",
+      "bytes": 361581,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 240,
+      "three_frame_mean_differences": [
+        9.64,
+        8.18,
+        9.48
+      ],
+      "mono_rms": 0.1022,
+      "upstream_poster_dhash_delta_of_256": 101,
+      "sha256": "eb3f2950fe03e2d057ed7b209a1a78daa30380a36e1f436e7787152fab65ec22"
+    },
+    {
+      "slug": "living-screencast",
+      "bytes": 285564,
+      "frames": 300,
+      "fps": "30",
+      "seconds": 10.0,
+      "decoded_frame_variants": 277,
+      "three_frame_mean_differences": [
+        12.3,
+        2.94,
+        12.39
+      ],
+      "mono_rms": 0.1598,
+      "upstream_poster_dhash_delta_of_256": 98,
+      "sha256": "03b9086b6731aa28a934902c7699d59eec8a25b13bc3325913c919694804227f"
+    },
+    {
+      "slug": "hologram-hud",
+      "bytes": 568239,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 240,
+      "three_frame_mean_differences": [
+        4.97,
+        4.27,
+        3.66
+      ],
+      "mono_rms": 0.1818,
+      "upstream_poster_dhash_delta_of_256": 87,
+      "sha256": "25ec62974a76e9a3bf2d29f46411137940349fcccee77c14595608902e2ce1a8"
+    },
+    {
+      "slug": "desktop-flythrough",
+      "bytes": 605673,
+      "frames": 300,
+      "fps": "30",
+      "seconds": 10.0,
+      "decoded_frame_variants": 300,
+      "three_frame_mean_differences": [
+        15.93,
+        17.16,
+        12.73
+      ],
+      "mono_rms": 0.1001,
+      "upstream_poster_dhash_delta_of_256": 113,
+      "sha256": "5d8cdbb353664af4480be12a9c4e0c9906ea15eee226adab2f445a42bb247f3a"
+    },
+    {
+      "slug": "spreadsheet",
+      "bytes": 197778,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 155,
+      "three_frame_mean_differences": [
+        0.98,
+        2.69,
+        1.97
+      ],
+      "mono_rms": 0.1123,
+      "upstream_poster_dhash_delta_of_256": 111,
+      "sha256": "405ca6fc3141984b01c8505d8d0a173ca7cf6a7ceb4b0f1ca536204c303d9840"
+    },
+    {
+      "slug": "one-bit-dither",
+      "bytes": 3205813,
+      "frames": 300,
+      "fps": "30",
+      "seconds": 10.0,
+      "decoded_frame_variants": 300,
+      "three_frame_mean_differences": [
+        4.37,
+        3.61,
+        5.38
+      ],
+      "mono_rms": 0.1273,
+      "upstream_poster_dhash_delta_of_256": 118,
+      "sha256": "98f6fa6fcdf9891240b918e7a8d663a803cbc070315694f0185e32c5bf5254ea"
+    },
+    {
+      "slug": "circuit-board",
+      "bytes": 468165,
+      "frames": 300,
+      "fps": "30",
+      "seconds": 10.0,
+      "decoded_frame_variants": 300,
+      "three_frame_mean_differences": [
+        6.35,
+        2.39,
+        7.34
+      ],
+      "mono_rms": 0.1083,
+      "upstream_poster_dhash_delta_of_256": 101,
+      "sha256": "2256b7c90beddd2dc001fd364ea464e8c6630c39792bf75fc098a7353ee37d9e"
+    },
+    {
+      "slug": "firefly-pointillism",
+      "bytes": 1586620,
+      "frames": 600,
+      "fps": "60",
+      "seconds": 10.0,
+      "decoded_frame_variants": 600,
+      "three_frame_mean_differences": [
+        4.7,
+        5.64,
+        5.27
+      ],
+      "mono_rms": 0.1395,
+      "upstream_poster_dhash_delta_of_256": 126,
+      "sha256": "ac9950c0ad42b2a8ccbbc4cb634a971cfa427bc87664acc89bfb1c9b79adf25f"
+    },
+    {
+      "slug": "flow-field",
+      "bytes": 1598135,
+      "frames": 300,
+      "fps": "30",
+      "seconds": 10.0,
+      "decoded_frame_variants": 299,
+      "three_frame_mean_differences": [
+        5.35,
+        6.2,
+        4.41
+      ],
+      "mono_rms": 0.1932,
+      "upstream_poster_dhash_delta_of_256": 146,
+      "sha256": "0855d0f20edd6e3c0dedfaa86b26b5766574d39a5ac796a3e1c4869dbaceca32"
+    },
+    {
+      "slug": "oscilloscope-math",
+      "bytes": 630277,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 240,
+      "three_frame_mean_differences": [
+        8.31,
+        10.55,
+        11.21
+      ],
+      "mono_rms": 0.1781,
+      "upstream_poster_dhash_delta_of_256": 112,
+      "sha256": "456ecd591cd0804fddf74b5fff55eb7ac3f1dd811d9af631e7e95573c3d658b2"
+    },
+    {
+      "slug": "neon-tubes",
+      "bytes": 549967,
+      "frames": 300,
+      "fps": "30",
+      "seconds": 10.0,
+      "decoded_frame_variants": 300,
+      "three_frame_mean_differences": [
+        0.46,
+        7.51,
+        7.54
+      ],
+      "mono_rms": 0.1197,
+      "upstream_poster_dhash_delta_of_256": 130,
+      "sha256": "b56139742254c922f90ed7965c3f9885d0033c717df83760d94713ca5e6ff68f"
+    },
+    {
+      "slug": "brick-toy",
+      "bytes": 352398,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 236,
+      "three_frame_mean_differences": [
+        2.98,
+        4.27,
+        4.66
+      ],
+      "mono_rms": 0.0924,
+      "upstream_poster_dhash_delta_of_256": 145,
+      "sha256": "0045bcf1083b0eca4d90300259ea7672feb4edbc1be211896559275d6e52aa4c"
+    },
+    {
+      "slug": "paper-popup",
+      "bytes": 398441,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 240,
+      "three_frame_mean_differences": [
+        27.27,
+        22.34,
+        15.35
+      ],
+      "mono_rms": 0.1111,
+      "upstream_poster_dhash_delta_of_256": 127,
+      "sha256": "6ba5afbd0049b6296667858dd59dcae54825c571dabc7e9650a503da20ad57eb"
+    },
+    {
+      "slug": "tilt-shift",
+      "bytes": 226415,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 227,
+      "three_frame_mean_differences": [
+        0.56,
+        1.06,
+        0.65
+      ],
+      "mono_rms": 0.1892,
+      "upstream_poster_dhash_delta_of_256": 117,
+      "sha256": "d4e753c3174685df1b51cd80eb1eb323c8a1124141b18c86e90b8d1c69212d7b"
+    },
+    {
+      "slug": "lowpoly-island",
+      "bytes": 257726,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 240,
+      "three_frame_mean_differences": [
+        9.29,
+        9.87,
+        3.49
+      ],
+      "mono_rms": 0.1542,
+      "upstream_poster_dhash_delta_of_256": 107,
+      "sha256": "371543a2f5bcb28343ded9cf0e2a45cdb5da7b139ea0e4c08e397655a55a16e8"
+    },
+    {
+      "slug": "glass-product",
+      "bytes": 468032,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 240,
+      "three_frame_mean_differences": [
+        11.77,
+        1.97,
+        12.1
+      ],
+      "mono_rms": 0.1682,
+      "upstream_poster_dhash_delta_of_256": 57,
+      "sha256": "02e43c9cd6e52bb4dfd25d62c6d3e40f46a917d9d3f896bc8773ecf8db198657"
+    },
+    {
+      "slug": "memphis-diorama",
+      "bytes": 385070,
+      "frames": 600,
+      "fps": "60",
+      "seconds": 10.0,
+      "decoded_frame_variants": 600,
+      "three_frame_mean_differences": [
+        6.11,
+        6.19,
+        0.51
+      ],
+      "mono_rms": 0.1532,
+      "upstream_poster_dhash_delta_of_256": 101,
+      "sha256": "6b138a5a9bd60e97f42387db3d461b48674f6437b2fa8e3698f678eddf1e29b4"
+    },
+    {
+      "slug": "isometric-picture-book",
+      "bytes": 453372,
+      "frames": 300,
+      "fps": "30",
+      "seconds": 10.0,
+      "decoded_frame_variants": 300,
+      "three_frame_mean_differences": [
+        19.18,
+        24.89,
+        19.95
+      ],
+      "mono_rms": 0.1028,
+      "upstream_poster_dhash_delta_of_256": 121,
+      "sha256": "1f57407999d966ee5ec9359026168c8955889eeedb348d825715990e854ab6f2"
+    },
+    {
+      "slug": "crayon-world",
+      "bytes": 1822027,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 233,
+      "three_frame_mean_differences": [
+        7.88,
+        8.81,
+        7.88
+      ],
+      "mono_rms": 0.1039,
+      "upstream_poster_dhash_delta_of_256": 128,
+      "sha256": "7f0933ab6bc6291ce19318becd5d1beddd4182d724131d3b7fc8aa58b1ff2279"
+    },
+    {
+      "slug": "satellite-briefing",
+      "bytes": 602847,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 225,
+      "three_frame_mean_differences": [
+        32.36,
+        32.27,
+        18.1
+      ],
+      "mono_rms": 0.1295,
+      "upstream_poster_dhash_delta_of_256": 127,
+      "sha256": "475ef2b79fd95cf0de6b0111489466e29fdcf4dabccb914fa92275efb13cd49b"
+    },
+    {
+      "slug": "briefing-board",
+      "bytes": 364879,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 208,
+      "three_frame_mean_differences": [
+        17.22,
+        3.69,
+        18.2
+      ],
+      "mono_rms": 0.1153,
+      "upstream_poster_dhash_delta_of_256": 126,
+      "sha256": "90a332b1369005c298dff61c7929395437ba606abc4244d34c89bded1ea6c3aa"
+    },
+    {
+      "slug": "lidar-survey",
+      "bytes": 247220,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 181,
+      "three_frame_mean_differences": [
+        3.0,
+        5.06,
+        2.38
+      ],
+      "mono_rms": 0.1619,
+      "upstream_poster_dhash_delta_of_256": 122,
+      "sha256": "85a5bce5442bf677f611e4513ebab350088805b7a155fc8c2cf6b44159b9afb6"
+    },
+    {
+      "slug": "microscope",
+      "bytes": 284086,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 203,
+      "three_frame_mean_differences": [
+        33.64,
+        40.41,
+        39.11
+      ],
+      "mono_rms": 0.1271,
+      "upstream_poster_dhash_delta_of_256": 130,
+      "sha256": "2c77c30dea759a9937ae6da281795aace94c786154fea9b883289e1c62732240"
+    },
+    {
+      "slug": "archive-lighttable",
+      "bytes": 314309,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 200,
+      "three_frame_mean_differences": [
+        3.93,
+        4.0,
+        4.62
+      ],
+      "mono_rms": 0.1314,
+      "upstream_poster_dhash_delta_of_256": 121,
+      "sha256": "17198b31ae27c9135ad27a583444167e4f6e49adb838e15dbfe1c818e41c528c"
+    },
+    {
+      "slug": "security-xray",
+      "bytes": 266641,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 240,
+      "three_frame_mean_differences": [
+        17.75,
+        17.03,
+        3.0
+      ],
+      "mono_rms": 0.1328,
+      "upstream_poster_dhash_delta_of_256": 99,
+      "sha256": "6d2e5f796f262a6d3d0f2f016ea28c5b5d1acfd77a4304fc4e171be83c0fb8d9"
+    },
+    {
+      "slug": "dark-documentary",
+      "bytes": 1818224,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 240,
+      "three_frame_mean_differences": [
+        7.49,
+        13.0,
+        12.04
+      ],
+      "mono_rms": 0.1505,
+      "upstream_poster_dhash_delta_of_256": 111,
+      "sha256": "bfa1188d9238bacdc0e6c1555f377ce180d05a4bd2a4f5a8021def6718a6244c"
+    },
+    {
+      "slug": "thermal-camera",
+      "bytes": 353549,
+      "frames": 300,
+      "fps": "30",
+      "seconds": 10.0,
+      "decoded_frame_variants": 260,
+      "three_frame_mean_differences": [
+        9.22,
+        9.08,
+        1.61
+      ],
+      "mono_rms": 0.1765,
+      "upstream_poster_dhash_delta_of_256": 130,
+      "sha256": "b62043e0ea13ce195b218c39b0bc120628601f196b2454b2f165e47779ab0e7f"
+    },
+    {
+      "slug": "dataviz",
+      "bytes": 213414,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 175,
+      "three_frame_mean_differences": [
+        1.28,
+        1.92,
+        0.68
+      ],
+      "mono_rms": 0.1159,
+      "upstream_poster_dhash_delta_of_256": 118,
+      "sha256": "348db0d28dc28e6f05968094edfc871f9b38f5ae9bdca47ecea7e92b6c17b37f"
+    },
+    {
+      "slug": "white-model",
+      "bytes": 447979,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 240,
+      "three_frame_mean_differences": [
+        12.58,
+        12.36,
+        9.22
+      ],
+      "mono_rms": 0.1126,
+      "upstream_poster_dhash_delta_of_256": 127,
+      "sha256": "2b99c70374b4a9e6dc3aaae3ec50bfb847c97c78f5e266a48246331380ebf31c"
+    },
+    {
+      "slug": "data-physical",
+      "bytes": 387560,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 201,
+      "three_frame_mean_differences": [
+        9.77,
+        3.93,
+        9.04
+      ],
+      "mono_rms": 0.1127,
+      "upstream_poster_dhash_delta_of_256": 101,
+      "sha256": "8baa4203480a15347ef8c865a55cb7563c08d7d9c4022d4897e38be47c47a3b2"
+    },
+    {
+      "slug": "transit-map",
+      "bytes": 381373,
+      "frames": 300,
+      "fps": "30",
+      "seconds": 10.0,
+      "decoded_frame_variants": 271,
+      "three_frame_mean_differences": [
+        13.12,
+        9.62,
+        16.2
+      ],
+      "mono_rms": 0.1252,
+      "upstream_poster_dhash_delta_of_256": 123,
+      "sha256": "4846fa29f054f2aa59f5a4a7978571f50f1a816597e0c1c0aa2aef63e3cf8f5e"
+    },
+    {
+      "slug": "map-explainer",
+      "bytes": 1225924,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 240,
+      "three_frame_mean_differences": [
+        20.64,
+        16.34,
+        13.6
+      ],
+      "mono_rms": 0.2007,
+      "upstream_poster_dhash_delta_of_256": 120,
+      "sha256": "1d4d5a9240aecee6ae33d3faa12cbb083f1a1144423a87a7ed5a03740373febf"
+    },
+    {
+      "slug": "pip-simulation",
+      "bytes": 269285,
+      "frames": 240,
+      "fps": "24",
+      "seconds": 10.0,
+      "decoded_frame_variants": 196,
+      "three_frame_mean_differences": [
+        2.11,
+        2.52,
+        2.32
+      ],
+      "mono_rms": 0.0982,
+      "upstream_poster_dhash_delta_of_256": 107,
+      "sha256": "a24815dc6c4a94bbd16b6c394ba0f21f8c4cf4166b6b40da8e2371b44bac1149"
+    }
+  ]
+}

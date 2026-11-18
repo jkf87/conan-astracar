@@ -1,0 +1,5 @@
+# Production and trailer renderers. System dependencies: FFmpeg, FFprobe, Cairo and a Korean font.
+numpy==2.5.1
+Pillow==12.3.0
+cffi==2.1.1
+opencv-python-headless==5.0.0.93

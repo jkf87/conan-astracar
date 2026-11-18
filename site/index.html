@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>코난쌤 아스트라카 · 99가지 코드 필름</title>
+    <meta
+      name="description"
+      content="Codex Astra 6.2 High가 코드로 만든 단편 99편. 한국어 스타일 메뉴에서 작품을 고르고 Lemo-Opuscar 원작과 비교해 보세요."
+    />
+    <meta property="og:title" content="코난쌤 아스트라카 | 99가지 코드 필름" />
+    <meta
+      property="og:description"
+      content="15개 분류, 99편의 새 단편. 같은 스타일을 두 제작자가 어떻게 풀었는지 보세요."
+    />
+    <meta
+      property="og:image"
+      content="https://jkf87.github.io/conan-astracar/share.jpg"
+    />
+    <link rel="canonical" href="https://jkf87.github.io/conan-astracar/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="icon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" type="module"></script>
+  </head>
+  <body data-page="home">
+    <a class="skip" href="#menu">스타일 메뉴로 건너뛰기</a>
+    <header>
+      <div class="bar wrap">
+        <a class="brand" href="./"
+          ><i aria-hidden="true">a</i> 코난쌤 아스트라카</a
+        >
+        <nav aria-label="주 메뉴">
+          <a href="#menu">스타일 메뉴</a><a href="films.html">상영관</a
+          ><a class="git" href="https://github.com/jkf87/conan-astracar"
+            >GitHub ↗</a
+          >
+        </nav>
+      </div>
+    </header>
+    <main>
+      <section class="hero wrap">
+        <div class="hero-copy">
+          <p class="eyebrow"><span></span> ASTRA FILM LIBRARY</p>
+          <h1>코드로 만든<br /><em>99가지</em> 단편.</h1>
+          <p>
+            같은 스타일에서 얼마나 다른 장면이 나올까요?<br />코덱스 아스트라
+            6.2 High가 만든 단편을 골라<br class="wide" />
+            Lemo-Opuscar 원작과 나란히 보세요.
+          </p>
+          <div class="actions">
+            <a class="btn primary" href="#menu">스타일 고르기 <b>↓</b></a
+            ><button type="button" id="trailer-open" class="btn">
+              23초 예고편 <b aria-hidden="true">▶</b>
+            </button>
+          </div>
+        </div>
+        <div class="hero-art" id="feature" aria-label="추천 단편">
+          <a id="feature-link" class="feature-link" href="films.html"
+            ><img id="feature-img" alt="" fetchpriority="high" /><span
+              class="feature-caption"
+              ><small id="feature-kind"></small
+              ><strong id="feature-title"></strong></span
+            ><span class="feature-play" aria-hidden="true">▶</span></a
+          >
+          <div class="feature-foot">
+            <span>상영관 추천작</span>
+            <div>
+              <button id="prev" aria-label="이전 추천작">←</button>
+              <output id="feature-page"></output>
+              <button id="next" aria-label="다음 추천작">→</button>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="catalog wrap" id="menu">
+        <div class="section-title">
+          <div>
+            <p class="eyebrow"><span></span> STYLE MENU</p>
+            <h2>스타일 메뉴</h2>
+          </div>
+          <span class="stats">15개 분류 <i>/</i> 99편</span>
+        </div>
+        <div class="tools">
+          <label
+            >작품 검색<input
+              id="search"
+              type="search"
+              placeholder="스타일, 작품 제목, 영문명"
+              autocomplete="off" /></label
+          ><label
+            >분류<select id="category">
+              <option value="">전체 분류</option>
+            </select></label
+          >
+        </div>
+        <p class="count" id="count" role="status" aria-live="polite">
+          작품 목록을 불러오는 중…
+        </p>
+        <div id="cards" class="cards"></div>
+        <noscript
+          >메뉴 검색과 영상 비교에는 자바스크립트가 필요합니다.
+          <a href="https://github.com/jkf87/conan-astracar"
+            >GitHub에서 소스와 영상을 보세요.</a
+          ></noscript
+        >
+      </section>
+      <section class="support">
+        <div class="wrap support-inner">
+          <div>
+            <p class="eyebrow">GITHUB</p>
+            <h2>다음 작품을 응원해 주세요.</h2>
+            <p>
+              코드와 제작 자료를 공개합니다. 마음에 드는 작품을 발견했다면
+              저장소에 별을 남겨 주세요.
+            </p>
+            <small>목표 1,000 stars <span class="stars"></span></small>
+          </div>
+          <a class="btn" href="https://github.com/jkf87/conan-astracar"
+            >☆ GitHub에서 Star <b>↗</b></a
+          >
+        </div>
+      </section>
+    </main>
+    <dialog id="trailer-dialog" aria-labelledby="trailer-heading">
+      <div class="dialog-head">
+        <h2 id="trailer-heading">코난쌤 아스트라카 예고편</h2>
+        <button class="btn" id="trailer-close">닫기</button>
+      </div>
+      <video
+        id="trailer-player"
+        controls
+        playsinline
+        preload="none"
+        aria-label="8가지 스타일을 모은 23초 예고편"
+      ></video>
+    </dialog>
+    <footer class="wrap">
+      <strong>코난쌤 아스트라카</strong
+      ><span
+        >원작 라이브러리 ·
+        <a href="https://github.com/lemomo-ai/lemo-opuscar"
+          >Lemo-Opuscar by Lemomo (LemoLab) ↗</a
+        ></span
+      >
+    </footer>
+  </body>
+</html>

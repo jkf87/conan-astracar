@@ -1,0 +1,431 @@
+[
+  {
+    "slug": "pop-art",
+    "bytes": 857155,
+    "mp4_sha256": "d46e03f95534208319eb43515f6b9f2d7b721a90c0aafbcb2b6ed98442e9b54d",
+    "poster_sha256": "995924894779dd6cadbee98a2f166a8d6d6c09b7c0675e7eb041116dd2db2e56",
+    "rms": 0.1419,
+    "peak_motion_per_third": [
+      21.903,
+      5.653,
+      0.557
+    ],
+    "upstream_poster_mean_difference": 77.38
+  },
+  {
+    "slug": "vintage-collage",
+    "bytes": 314455,
+    "mp4_sha256": "100cf12d1f8ea35e143fb626745c9cb5d06124db72086c3358f8b2601368c0f2",
+    "poster_sha256": "a515b26081461aa2a6782c5a9a8dd26b824fb75c938c0f02df0d20d5de36351a",
+    "rms": 0.1503,
+    "peak_motion_per_third": [
+      0.215,
+      2.002,
+      1.141
+    ],
+    "upstream_poster_mean_difference": 68.84
+  },
+  {
+    "slug": "swiss-motion",
+    "bytes": 178157,
+    "mp4_sha256": "b3cf176d6171e0df0d3b31809d6ac93f2da44503650ea6727e99e286d120db73",
+    "poster_sha256": "494f71b758fc6d328a9ba1c3c0e527395558e8eee5d11095e993588669db7fe1",
+    "rms": 0.1209,
+    "peak_motion_per_third": [
+      4.002,
+      3.514,
+      12.874
+    ],
+    "upstream_poster_mean_difference": 42.63
+  },
+  {
+    "slug": "spy-titles",
+    "bytes": 328885,
+    "mp4_sha256": "89c4ac02288ccbcf39a0711d7483e2cdd9b2f20034e52762071d8d7d5d3323d7",
+    "poster_sha256": "b165367917c394f3eef53dc034b2245a35766125dcc4d6b4ce5f8b2a8b6958c3",
+    "rms": 0.1434,
+    "peak_motion_per_third": [
+      8.63,
+      2.286,
+      0.509
+    ],
+    "upstream_poster_mean_difference": 68.97
+  },
+  {
+    "slug": "art-deco",
+    "bytes": 263886,
+    "mp4_sha256": "ad2667e9e56e467e95e3ea97df16a8eba0de37f78856e97ba172a37078b7278c",
+    "poster_sha256": "b8bf5990c427613f121ff8cf55a30abb5440d85a3cb05bacc9711250d6e933ea",
+    "rms": 0.1564,
+    "peak_motion_per_third": [
+      1.23,
+      1.25,
+      0.707
+    ],
+    "upstream_poster_mean_difference": 32.3
+  },
+  {
+    "slug": "pictogram-motion",
+    "bytes": 380813,
+    "mp4_sha256": "ffe88f0336c6188e31899848509bdc761f59e413172daf537059b489e8a6ec07",
+    "poster_sha256": "01cebcae107aa974c116088ae011e04c78d2623054206fd62abdcaea433d9cb9",
+    "rms": 0.1202,
+    "peak_motion_per_third": [
+      33.832,
+      33.173,
+      28.686
+    ],
+    "upstream_poster_mean_difference": 50.45
+  },
+  {
+    "slug": "bauhaus-shapes",
+    "bytes": 187741,
+    "mp4_sha256": "d549bd936a4a8107328c40eb3cffb424a74e7ed125ca9415ddb229479234709f",
+    "poster_sha256": "1909b4610bb5e7bae86c4eaf4c890529abe2057890cf0fc954c5561a65a670cb",
+    "rms": 0.1165,
+    "peak_motion_per_third": [
+      1.471,
+      2.382,
+      0.857
+    ],
+    "upstream_poster_mean_difference": 73.98
+  },
+  {
+    "slug": "flat-space-explainer",
+    "bytes": 284437,
+    "mp4_sha256": "9545fc517039b9e3bac4a316d12937b60e1b247427f1070d74965ee1d83acf51",
+    "poster_sha256": "8d0fc7ac138b6e6be4471c241cb90757ff30b772fa33679625e2e04356774d07",
+    "rms": 0.1612,
+    "peak_motion_per_third": [
+      1.554,
+      1.411,
+      1.149
+    ],
+    "upstream_poster_mean_difference": 32.34
+  },
+  {
+    "slug": "text-flash-cuts",
+    "bytes": 703207,
+    "mp4_sha256": "0f8a53e353fdb4b4752c3e85dd7090c9a74efc0d27fd9e6630099555257d4ed4",
+    "poster_sha256": "8169e1534d2551acc7a072c4cf4dbba0f40572b2e2565b8c9b8f20d1f10ce6bc",
+    "rms": 0.1314,
+    "peak_motion_per_third": [
+      103.486,
+      66.922,
+      102.638
+    ],
+    "upstream_poster_mean_difference": 98.2
+  },
+  {
+    "slug": "silhouette-rhythm",
+    "bytes": 296476,
+    "mp4_sha256": "7ba42774857211a0688a219d04a5ee11b6d2a97263a4fad3df691c2b4635a878",
+    "poster_sha256": "b02caf86864432f38fc21954764fa39d54392c7d68af09a143f77265357ccc82",
+    "rms": 0.127,
+    "peak_motion_per_third": [
+      2.286,
+      2.795,
+      2.773
+    ],
+    "upstream_poster_mean_difference": 43.6
+  },
+  {
+    "slug": "blueprint",
+    "bytes": 261965,
+    "mp4_sha256": "228e0177441029a430a5f0c56b8bcf6cc55eddedd2d776190d6e5f756a864010",
+    "poster_sha256": "84464102ceebf2a71d7c26459641810519a3a8ff02b79b49fc08fb45c23d5243",
+    "rms": 0.1349,
+    "peak_motion_per_third": [
+      0.686,
+      2.027,
+      0.512
+    ],
+    "upstream_poster_mean_difference": 18.26
+  },
+  {
+    "slug": "iso-infographic",
+    "bytes": 345826,
+    "mp4_sha256": "1b96b3fcc1f497161abbe8ab55728600dbba1f6090e37bec646243c055ad12be",
+    "poster_sha256": "0b80efd61572806f638814169105e6a62528a34216d38d0d93bed7afb29d3a59",
+    "rms": 0.1276,
+    "peak_motion_per_third": [
+      1.794,
+      2.16,
+      2.053
+    ],
+    "upstream_poster_mean_difference": 29.98
+  },
+  {
+    "slug": "teardown",
+    "bytes": 199312,
+    "mp4_sha256": "8c933c261b8fe9d780cf8b8ad3f9aaec212732b281878372cec3a15fef8a269f",
+    "poster_sha256": "5b943bcbaa5332fd3d2c867d0f21c4c452d5f140d110deba66ccf0151445b8f4",
+    "rms": 0.1499,
+    "peak_motion_per_third": [
+      1.909,
+      1.958,
+      2.724
+    ],
+    "upstream_poster_mean_difference": 34.06
+  },
+  {
+    "slug": "hardcore-info",
+    "bytes": 411979,
+    "mp4_sha256": "9762643ca9db06fa944b0e4eb336995c694ba4d0bb53c7a061b9e77debd4becd",
+    "poster_sha256": "27991ff564e7da4d98ad4024a2cd6374a565cbc0a5b6d8e216a41264bfaa84e6",
+    "rms": 0.1496,
+    "peak_motion_per_third": [
+      0.905,
+      1.605,
+      1.173
+    ],
+    "upstream_poster_mean_difference": 18.39
+  },
+  {
+    "slug": "precise-mechanism",
+    "bytes": 386546,
+    "mp4_sha256": "2104e25aab4746e1d0be689ef9e7b6bf3849679272295d81068a9cc21bae4e73",
+    "poster_sha256": "4f5f0e1b9c9fc9a3654e1d3d6f97cde2f1acfd94017f3efbaf73748003f9b3bd",
+    "rms": 0.1354,
+    "peak_motion_per_third": [
+      2.703,
+      2.808,
+      2.824
+    ],
+    "upstream_poster_mean_difference": 24.07
+  },
+  {
+    "slug": "instruction-manual",
+    "bytes": 182940,
+    "mp4_sha256": "dae467c7b156a6b3923f2855d3cf62b715b06b4e166740d409171a134a1deb1b",
+    "poster_sha256": "621b351f648e5bf1858d9e243b194ade9773b6c7bd8d3edf4562e37db724d7ac",
+    "rms": 0.1195,
+    "peak_motion_per_third": [
+      0.359,
+      1.212,
+      1.39
+    ],
+    "upstream_poster_mean_difference": 13.46
+  },
+  {
+    "slug": "pen-plotter",
+    "bytes": 357518,
+    "mp4_sha256": "27fc92f6e3884de43ca0c6f2f9e0587922163d19107de03183a6bb575bc134c7",
+    "poster_sha256": "2ed0854506a173894951e1d0544aa40a96b1b9a051fa815fdb401fad6ed58756",
+    "rms": 0.149,
+    "peak_motion_per_third": [
+      2.434,
+      2.623,
+      2.514
+    ],
+    "upstream_poster_mean_difference": 71.87
+  },
+  {
+    "slug": "assembly-line-diagram",
+    "bytes": 471523,
+    "mp4_sha256": "a6cf53bcb66769d69bf7b8b73c3598869297b00010be50fc84e34cb4188bd02f",
+    "poster_sha256": "9af278dcdf73af28403fae258a9dc1bb053e2803cfe5351897c865f381b033f4",
+    "rms": 0.1559,
+    "peak_motion_per_third": [
+      17.605,
+      6.068,
+      18.489
+    ],
+    "upstream_poster_mean_difference": 63.65
+  },
+  {
+    "slug": "rubber-hose",
+    "bytes": 430806,
+    "mp4_sha256": "bff79f400a609785ce8f3146095ffa32101b4f7096a4be7f2dd94f0ab042bd57",
+    "poster_sha256": "c1c7580ce5c48c9f50211725877989887b5dec6de8d3302c316664cf602ca0e3",
+    "rms": 0.152,
+    "peak_motion_per_third": [
+      6.644,
+      6.698,
+      7.137
+    ],
+    "upstream_poster_mean_difference": 99.1
+  },
+  {
+    "slug": "cel-anime-80s",
+    "bytes": 272872,
+    "mp4_sha256": "a6a2e234098a5fd9e92b1767334b02a607f73cb7e38ab6ca8e4ace22de7dd5eb",
+    "poster_sha256": "fce137a62acc40d6aed38d05748f88345b02e0693c6ab44c7e6341822a265d69",
+    "rms": 0.1799,
+    "peak_motion_per_third": [
+      0.491,
+      0.752,
+      6.715
+    ],
+    "upstream_poster_mean_difference": 94.22
+  },
+  {
+    "slug": "scifi-toon",
+    "bytes": 481999,
+    "mp4_sha256": "0afae86925d5d646de371b28211cfb4d95c5670197ee49e28192917798ee020c",
+    "poster_sha256": "aba48c5a540addef4545a92822e2ec5af0077669046dad05837b097c45331264",
+    "rms": 0.1242,
+    "peak_motion_per_third": [
+      4.986,
+      5.105,
+      4.823
+    ],
+    "upstream_poster_mean_difference": 56.4
+  },
+  {
+    "slug": "midcentury-toon",
+    "bytes": 190325,
+    "mp4_sha256": "d97217a9d7042f1c211dc909045edb9d4da1721e27323c5650df539f4e13c13c",
+    "poster_sha256": "2b10a41b01fc840f7c992b986e86185cbf31906bfb6661eb7b4e579b844b7d35",
+    "rms": 0.1415,
+    "peak_motion_per_third": [
+      0.388,
+      0.461,
+      0.58
+    ],
+    "upstream_poster_mean_difference": 38.1
+  },
+  {
+    "slug": "comic-history",
+    "bytes": 359067,
+    "mp4_sha256": "8a685349bb17f6e0e4b356c344860d263ff95de02f8a77de026e530b8371922e",
+    "poster_sha256": "d3d17b5f6a81841d1fb7743373be7b40ba8c4a4029f2a662bbee2a21d081ebaf",
+    "rms": 0.154,
+    "peak_motion_per_third": [
+      0.568,
+      0.591,
+      0.667
+    ],
+    "upstream_poster_mean_difference": 63.7
+  },
+  {
+    "slug": "manga-panels",
+    "bytes": 697081,
+    "mp4_sha256": "39269058b4dfe6deff1783f398915782208c175468086eeebedb6d73c626a330",
+    "poster_sha256": "8f7d06c49a4592a948373d930b25821d911d174318b52e8dec1753e14c2de7f6",
+    "rms": 0.1335,
+    "peak_motion_per_third": [
+      4.163,
+      7.312,
+      4.903
+    ],
+    "upstream_poster_mean_difference": 73.23
+  },
+  {
+    "slug": "pixel-rpg",
+    "bytes": 196285,
+    "mp4_sha256": "950727cddbe31af1cdc58adfe9618322b393984bc781d64d5fef3bfeaa43ec10",
+    "poster_sha256": "fe64689f06ca87d27c9bb51da62efd8577127b44ec0fa55a65ae9c5379c0c972",
+    "rms": 0.1258,
+    "peak_motion_per_third": [
+      0.651,
+      0.907,
+      0.453
+    ],
+    "upstream_poster_mean_difference": 58.77
+  },
+  {
+    "slug": "hd-2d",
+    "bytes": 427565,
+    "mp4_sha256": "4ff0f252afb913bc7e931bed322e03f66c0af78e6b5aa2c995f059d266f198a3",
+    "poster_sha256": "bbf3516b556b21c858f09948f5117313e8525c07ea4dfe334ef43f2262bed862",
+    "rms": 0.1802,
+    "peak_motion_per_third": [
+      2.305,
+      2.534,
+      2.707
+    ],
+    "upstream_poster_mean_difference": 94.51
+  },
+  {
+    "slug": "microgame",
+    "bytes": 223316,
+    "mp4_sha256": "14249e8b4d8c824c804989cc8b1d6137ec536ce3f03ddf1b3ac28f76128ce3df",
+    "poster_sha256": "c9dc2ab853ff3e2527bddf25bdd93a2e9653957216ee5aca2da27974afb06860",
+    "rms": 0.133,
+    "peak_motion_per_third": [
+      1.024,
+      123.641,
+      72.463
+    ],
+    "upstream_poster_mean_difference": 65.95
+  },
+  {
+    "slug": "game-show",
+    "bytes": 594885,
+    "mp4_sha256": "8b0a53dca206e911b2550ae922d5cf6d5924fcb34b6b22105b6d4417f70c2d70",
+    "poster_sha256": "939d9accbe8a83fdbb605ee130c26a7f02ddf31697976ba40da2d3d596bc3f86",
+    "rms": 0.1444,
+    "peak_motion_per_third": [
+      7.376,
+      7.372,
+      14.919
+    ],
+    "upstream_poster_mean_difference": 89.14
+  },
+  {
+    "slug": "ascii-crt",
+    "bytes": 316913,
+    "mp4_sha256": "70ad201d04e59ce83b097149978ce62de3c52481c5d90dcea3813c5deadd6325",
+    "poster_sha256": "650f8faea44763bd30c081ba633e87a20a86bf2c85d30780991f763d86be5fc9",
+    "rms": 0.1161,
+    "peak_motion_per_third": [
+      0.4,
+      0.651,
+      0.511
+    ],
+    "upstream_poster_mean_difference": 21.84
+  },
+  {
+    "slug": "silent-film",
+    "bytes": 670083,
+    "mp4_sha256": "fb23d2f093fed9ae4a071550731246395758658f2aff33f3a008b0778e34b794",
+    "poster_sha256": "7c9f5278b6ce3ff92aabd773789a2967612dd917aec1990559d097eece277a10",
+    "rms": 0.1372,
+    "peak_motion_per_third": [
+      83.734,
+      83.72,
+      5.2
+    ],
+    "upstream_poster_mean_difference": 50.9
+  },
+  {
+    "slug": "backrooms",
+    "bytes": 465450,
+    "mp4_sha256": "9c08cc82f66beea2f810d228cc11e279b670f734cee06f79cfc40f1292bec2cc",
+    "poster_sha256": "09285ce9962dd5f4b7c433a8903a68a4a4d6a86f6b544af23c11bc54af8e5929",
+    "rms": 0.0934,
+    "peak_motion_per_third": [
+      1.884,
+      1.963,
+      2.185
+    ],
+    "upstream_poster_mean_difference": 52.77
+  },
+  {
+    "slug": "scratch-film",
+    "bytes": 922637,
+    "mp4_sha256": "14b74296857ca1c5733f2705b0a8ddde2f2e6a0e042db10c78847216a0007cbc",
+    "poster_sha256": "9f0e260f965cf733fffcc3b26518738e6ce9bb13155213b9642546757e116ce9",
+    "rms": 0.124,
+    "peak_motion_per_third": [
+      0.556,
+      1.514,
+      2.837
+    ],
+    "upstream_poster_mean_difference": 25.27
+  },
+  {
+    "slug": "double-exposure",
+    "bytes": 361420,
+    "mp4_sha256": "369b6b215560cb0e15dd002eb70cf7b0cc1cf68682722525b639b9a4f78f7e7e",
+    "poster_sha256": "7e80e756f3ea8a5206b1194f4d27e7b1d384b9974b459a6aa40151f25d2d63cd",
+    "rms": 0.1816,
+    "peak_motion_per_third": [
+      0.896,
+      1.092,
+      1.1
+    ],
+    "upstream_poster_mean_difference": 116.78
+  }
+]

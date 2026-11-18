@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>상영관 · 코난쌤 아스트라카</title>
+    <meta
+      name="description"
+      content="99개 스타일의 새 Astra 단편과 Lemo-Opuscar 원작 데모를 같은 화면에서 재생하세요."
+    />
+    <meta property="og:title" content="아스트라카 상영관 · 99개 스타일 비교" />
+    <meta
+      property="og:image"
+      content="https://jkf87.github.io/conan-astracar/share.jpg"
+    />
+    <link
+      rel="canonical"
+      href="https://jkf87.github.io/conan-astracar/films.html"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="icon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" type="module"></script>
+  </head>
+  <body data-page="films" class="theater">
+    <a class="skip" href="#screen">영상으로 건너뛰기</a>
+    <header>
+      <div class="bar wrap">
+        <a class="brand" href="./"
+          ><i aria-hidden="true">a</i> 코난쌤 아스트라카</a
+        >
+        <nav aria-label="주 메뉴">
+          <a href="./#menu">스타일 메뉴</a
+          ><a href="films.html" aria-current="page">상영관</a
+          ><a class="git" href="https://github.com/jkf87/conan-astracar"
+            >GitHub ↗</a
+          >
+        </nav>
+      </div>
+    </header>
+    <main class="wrap cinema" id="screen">
+      <p class="eyebrow"><span></span> SCREENING ROOM</p>
+      <div class="section-title">
+        <h1>상영관</h1>
+        <a class="back" href="./#menu">전체 메뉴 ↗</a>
+      </div>
+      <div class="chooser">
+        <label>상영할 스타일<select id="film-select"></select></label>
+        <div class="stepper">
+          <button id="film-prev" aria-label="이전 스타일">←</button
+          ><output id="film-position"></output
+          ><button id="film-next" aria-label="다음 스타일">→</button>
+        </div>
+      </div>
+      <section aria-labelledby="style-name">
+        <p class="kicker" id="category-name"></p>
+        <h2 id="style-name"></h2>
+        <div class="pair">
+          <article>
+            <div class="film-meta"><b>ASTRA</b><span>새로 만든 단편</span></div>
+            <video
+              id="astra"
+              controls
+              playsinline
+              preload="metadata"
+              aria-label="Astra 단편"
+            ></video>
+            <h3 id="astra-title"></h3>
+            <p id="story"></p>
+            <p id="technique"></p>
+          </article>
+          <article>
+            <div class="film-meta">
+              <b>ORIGINAL</b><span>Claude Opus 5.5 · 원작 데모</span>
+            </div>
+            <video
+              id="original"
+              controls
+              playsinline
+              preload="metadata"
+              aria-label="원작 데모"
+            ></video>
+            <h3 id="original-title"></h3>
+            <p id="credit"></p>
+            <p>
+              <a id="original-link">원작 페이지와 크레디트 ↗</a> ·
+              <a id="guide">스타일 가이드 ↗</a>
+            </p>
+          </article>
+        </div>
+        <div class="film-actions">
+          <button id="compare" class="btn primary" aria-pressed="false">
+            두 영상 함께 재생</button
+          ><button id="copy-link" class="btn">작품 링크 복사</button
+          ><button id="copy-prompt" class="btn">제작 프롬프트 복사</button
+          ><a class="btn" id="source">Astra 제작 소스 ↗</a
+          ><a
+            class="btn"
+            href="https://github.com/jkf87/conan-astracar/blob/main/NOTICE.md"
+            >자료 출처 ↗</a
+          >
+        </div>
+        <p id="feedback" role="status" aria-live="polite"></p>
+        <textarea
+          id="manual-copy"
+          hidden
+          readonly
+          aria-label="복사할 텍스트"
+        ></textarea>
+      </section>
+      <noscript>영상을 고르려면 자바스크립트를 켜 주세요.</noscript>
+    </main>
+    <footer class="wrap">
+      <strong>코난쌤 아스트라카</strong
+      ><span
+        ><a href="https://github.com/jkf87/conan-astracar"
+          >☆ GitHub에서 Star ↗</a
+        >
+        · 목표 1,000 stars</span
+      >
+    </footer>
+  </body>
+</html>
