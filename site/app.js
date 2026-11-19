@@ -109,14 +109,6 @@ function home(styles) {
   $("prev").onclick = () => feature(active - 1);
   $("next").onclick = () => feature(active + 1);
   feature(0);
-  fetch("https://api.github.com/repos/jkf87/conan-astracar")
-    .then((r) => (r.ok ? r.json() : null))
-    .then((j) => {
-      if (Number.isInteger(j?.stargazers_count))
-        document.querySelector(".stars").textContent =
-          ` · 현재 ${j.stargazers_count.toLocaleString("ko-KR")}개`;
-    })
-    .catch(() => {});
 }
 
 async function copy(text, notice) {

@@ -433,10 +433,6 @@ select {
   margin: 12px 0;
   color: #ddd6ce;
 }
-.support small {
-  font-family: var(--mono);
-  color: #ffae98;
-}
 .support .btn {
   white-space: nowrap;
   color: white;

@@ -88,4 +88,4 @@ python3 tools/verify_films.py
 
 원작은 **Lemo-Opuscar by Lemomo (LemoLab)** 입니다. 원저자는 데모를 Claude Opus 5.5로 만들었다고 설명합니다. Astra 단편은 같은 스타일을 새로운 내용과 짧은 러닝타임으로 해석했습니다. 원본 가이드, 영상과 포스터, 제3자 자료의 이용 조건은 따로 표기되어 있습니다. 일부 Astra 작품에는 실측 자료 또는 별도로 생성한 캐릭터 원화가 들어갑니다. [원본 저장소](https://github.com/lemomo-ai/lemo-opuscar) · [저작자와 자료 출처](NOTICE.md)
 
-**목표는 GitHub Star 1,000개입니다.** 마음에 드는 단편의 링크를 공유하거나 이 저장소의 **Star**를 눌러 주세요. [GitHub 저장소 열기](https://github.com/jkf87/conan-astracar)
+마음에 드는 단편의 링크를 공유하거나 이 저장소의 **Star**를 눌러 주세요. [GitHub 저장소 열기](https://github.com/jkf87/conan-astracar)
